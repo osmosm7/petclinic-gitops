@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: petclinic
-        image: 450444046629.dkr.ecr.ap-northeast-1.amazonaws.com/user19-petclinic:latest
+        image: 450444046629.dkr.ecr.ap-northeast-1.amazonaws.com/user19-petclinic:15
       
         env:
         - name: MYSQL_URL
